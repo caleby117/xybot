@@ -1,0 +1,2016 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"b",
+				"b_lower"
+			],
+			[
+				"a",
+				"a_lower"
+			],
+			[
+				"ca",
+				"cat_dog"
+			],
+			[
+				"True",
+				"True"
+			],
+			[
+				"m",
+				"m"
+			],
+			[
+				"p",
+				"p"
+			],
+			[
+				"draw",
+				"draw_polygon"
+			],
+			[
+				"new",
+				"newt"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"start",
+				"start_diag"
+			],
+			[
+				"sta",
+				"startEndPoints"
+			],
+			[
+				"end",
+				"end_diag"
+			],
+			[
+				"st",
+				"start"
+			],
+			[
+				"complement",
+				"complement"
+			],
+			[
+				"complemet",
+				"complement"
+			],
+			[
+				"prims",
+				"primes_list"
+			],
+			[
+				"primes",
+				"primes_list"
+			],
+			[
+				"check",
+				"check_for_primes"
+			],
+			[
+				"le",
+				"legendre"
+			],
+			[
+				"is",
+				"is_prime"
+			],
+			[
+				"are",
+				"area_square"
+			],
+			[
+				"rev",
+				"reversed_numbers"
+			],
+			[
+				"inver",
+				"invert_number"
+			],
+			[
+				"num",
+				"numstr"
+			],
+			[
+				"per",
+				"perfect_number"
+			],
+			[
+				"sum",
+				"sum_factors"
+			],
+			[
+				"divisor",
+				"divisors"
+			],
+			[
+				"is_",
+				"is_even_and_positive"
+			],
+			[
+				"noti",
+				"notify_team_joined"
+			],
+			[
+				"full",
+				"full_name"
+			],
+			[
+				"roud",
+				"round_no"
+			],
+			[
+				"Bot",
+				"BotState"
+			],
+			[
+				"reply",
+				"reply_markup"
+			],
+			[
+				"vacan",
+				"vacant_teams_kb"
+			],
+			[
+				"QW",
+				"QWidget"
+			],
+			[
+				"work",
+				"worksheet_list"
+			],
+			[
+				"stopbo",
+				"stop_bot"
+			],
+			[
+				"stop",
+				"stop_bot"
+			],
+			[
+				"show",
+				"show_scores"
+			],
+			[
+				"reply_",
+				"reply_text"
+			],
+			[
+				"vt",
+				"vtButtons"
+			],
+			[
+				"vtB",
+				"vtButtons3"
+			],
+			[
+				"vtbu",
+				"vtButtons2"
+			],
+			[
+				"vT",
+				"vtButtons2"
+			],
+			[
+				"vtBu",
+				"vtButtons1"
+			],
+			[
+				"vTe",
+				"vteamsButtons"
+			],
+			[
+				"va",
+				"vacant_teams_kb"
+			],
+			[
+				"if",
+				"if\tIf Condition"
+			],
+			[
+				"rep",
+				"reply_text"
+			],
+			[
+				"vaca",
+				"vacant_teams_kb"
+			],
+			[
+				"Repl",
+				"ReplyKeyboardRemove"
+			],
+			[
+				"COmmand",
+				"CommandHandler"
+			],
+			[
+				"Ma",
+				"MARKDOWN_V2"
+			],
+			[
+				"parse",
+				"parse_mode"
+			],
+			[
+				"ma",
+				"reply_markup"
+			],
+			[
+				"K",
+				"ReplyKeyboardRemove"
+			],
+			[
+				"teams",
+				"teams_not_played_str"
+			],
+			[
+				"BEGIN",
+				"BEGIN"
+			],
+			[
+				"team",
+				"team_no"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"round",
+				"round_no"
+			],
+			[
+				"admin",
+				"admin_round_text"
+			],
+			[
+				"v",
+				"vteams"
+			],
+			[
+				"che",
+				"check_vacant_teams"
+			],
+			[
+				"admin_st",
+				"admin_start_game"
+			],
+			[
+				"teams_n",
+				"teams_not_played_str"
+			],
+			[
+				"not",
+				"teams_not_played_str"
+			],
+			[
+				"result",
+				"results_msg"
+			],
+			[
+				"info",
+				"info_path"
+			],
+			[
+				"curren",
+				"current_path"
+			],
+			[
+				"Command",
+				"CommandHandler"
+			],
+			[
+				"parti",
+				"participant_leave_game"
+			],
+			[
+				"reutrn",
+				"return"
+			],
+			[
+				"vacant",
+				"vacant_teams"
+			],
+			[
+				"sart",
+				"startnoadmin"
+			],
+			[
+				"current",
+				"current_card"
+			],
+			[
+				"game",
+				"game"
+			],
+			[
+				"ask",
+				"ask_for_card"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"one",
+				"one_time_keyboard"
+			],
+			[
+				"begin",
+				"BEGIN"
+			],
+			[
+				"map",
+				"map_to_parent"
+			],
+			[
+				"pla",
+				"teams_that_played"
+			],
+			[
+				"P",
+				"PLAYERS_SUBMITTING"
+			],
+			[
+				"sco",
+				"scoring_matrix"
+			],
+			[
+				"x",
+				"xScore"
+			],
+			[
+				"combi",
+				"combi_split"
+			],
+			[
+				"aXbY",
+				"aXbY_cell"
+			],
+			[
+				"aX",
+				"aXbY_cell"
+			],
+			[
+				"next",
+				"nextround"
+			],
+			[
+				"part",
+				"part_id"
+			],
+			[
+				"send",
+				"send_message"
+			],
+			[
+				"ADMIN",
+				"ADMIN_STATE"
+			],
+			[
+				"con",
+				"context"
+			],
+			[
+				"adnm",
+				"admin_increment_round"
+			],
+			[
+				"nex",
+				"nextround"
+			],
+			[
+				"conv",
+				"conv_handler"
+			],
+			[
+				"make",
+				"makeMeAdmin"
+			],
+			[
+				"makeme",
+				"makemeadmin"
+			],
+			[
+				"mak",
+				"makeMeAdmin"
+			],
+			[
+				"eff",
+				"effective_user"
+			],
+			[
+				"makeMe",
+				"makeMeAdmin_handler"
+			],
+			[
+				"effec",
+				"effective_user"
+			],
+			[
+				"repl",
+				"reply_user"
+			],
+			[
+				"t6r",
+				"t6r3xy"
+			],
+			[
+				"cre",
+				"create_scoring_matrix"
+			],
+			[
+				"get",
+				"getscore"
+			],
+			[
+				"col",
+				"col"
+			],
+			[
+				"card",
+				"card_cell"
+			],
+			[
+				"score",
+				"score_matrix_range"
+			],
+			[
+				"y",
+				"yMatrix"
+			],
+			[
+				"range",
+				"range_botR"
+			],
+			[
+				"column",
+				"colnum_string"
+			],
+			[
+				"op",
+				"operator_cells"
+			],
+			[
+				"no",
+				"no_teams"
+			],
+			[
+				"ace",
+				"active_cell"
+			],
+			[
+				"row",
+				"rowOffset"
+			],
+			[
+				"caps",
+				"caps_handler"
+			],
+			[
+				"echo",
+				"echo_handler"
+			],
+			[
+				"id",
+				"id_name"
+			],
+			[
+				"reque",
+				"requests"
+			],
+			[
+				"chat",
+				"chat_id"
+			],
+			[
+				"tur",
+				"TutorialBotView"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Caleby/Documents/NUS CS1010E/assignment/assignment1.py",
+			"settings":
+			{
+				"buffer_size": 153,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Caleby/Documents/NUS CS1010E/tut/w03.py",
+			"settings":
+			{
+				"buffer_size": 1241,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Caleby/Documents/NUS CS1010E/assignment/assignment2.py",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Caleby/Documents/NUS CS1010E/assignment/assignment-2-template.py",
+			"settings":
+			{
+				"buffer_size": 2072,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Caleby/Documents/NUS CS1010E/misc/trainingstrings2.py",
+			"settings":
+			{
+				"buffer_size": 1165,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Caleby/Documents/NUS CS1010E/katiss/quadrant.py",
+			"settings":
+			{
+				"buffer_size": 247,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Caleby/Documents/NUS CS1010E/katiss/planina.py",
+			"settings":
+			{
+				"buffer_size": 190,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Caleby/Documents/NUS CS1010E/katiss/planinainput.txt",
+			"settings":
+			{
+				"buffer_size": 2,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Caleby/Documents/NUS CS1010E/assignment/assignment3-template.py",
+			"settings":
+			{
+				"buffer_size": 3546,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Caleby/Documents/NUS CS1010E/katiss/quadrantinput.txt",
+			"settings":
+			{
+				"buffer_size": 6,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "10"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 64.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Caleby/Documents/NUS CS1010E/katiss/reversebin.py",
+		"/C/Users/Caleby/Documents/NUS CS1010E/katiss/chessinput.txt",
+		"/C/Users/Caleby/Documents/NUS CS1010E/katiss/reversebininput.txt",
+		"/C/Users/Caleby/Documents/NUS CS1010E/katiss/chineseRemainderinput.txt",
+		"/C/Users/Caleby/Documents/NUS CS1010E/katiss/testkatisssyslinein.py",
+		"/C/Users/Caleby/Documents/NUS CS1010E/katiss/testinput.txt",
+		"/C/Users/Caleby/Documents/NUS CS1010E/misc/trainingrecursion.py",
+		"/C/Users/Caleby/Documents/NUS CS1010E/misc/trainingiteration.py",
+		"/C/Users/Caleby/Documents/NUS CS1010E/katiss/chess.py",
+		"/C/Users/Caleby/Documents/NUS CS1010E/katiss/chineseRemainder.py",
+		"/C/Users/Caleby/Documents/GitHub/desktop-tutorial/README.md",
+		"/C/Users/Caleby/Documents/NUS CS1010E/assignment/assignment1-template.py",
+		"/C/Users/Caleby/Documents/NUS CS1010E/lecture/W02+monty+hall.py",
+		"/C/Users/Caleby/Documents/NUS CS1010E/misc/debug1.py",
+		"/C/Users/Caleby/Documents/NUS CS1010E/misc/debug2.py",
+		"/C/Users/Caleby/Documents/Python_Coding/XY_BOT/XYGameHandler.py",
+		"/C/Users/Caleby/Documents/Python_Coding/XY_BOTv0_1_1/gui2.py",
+		"/C/Users/Caleby/Documents/Python_Coding/XY_BOT/gui.spec",
+		"/C/Users/Caleby/Documents/Python_Coding/XY_BOT/gui.py",
+		"/C/Users/Caleby/Documents/Python_Coding/XY_BOT/msgs.py",
+		"/C/Users/Caleby/Documents/Python_Coding/XY_BOT/sheets.py",
+		"/C/Users/Caleby/Documents/Python_Coding/XY_BOTv0_1_1/Caleb Test Bot Token.txt",
+		"/C/Users/Caleby/Documents/Python_Coding/XY_BOT/app2.py",
+		"/C/Users/Caleby/Documents/NUS CS1010E/waves.py",
+		"/C/Users/Caleby/Documents/NUS CS1010E/lotus.py",
+		"/G/TheVolumeSettingsFolder/HFSExtentTables/JJIB2300S3VASLO0MQ2CEN2B0O/R6QAVB9546DB41G1K1ASMVAVIK",
+		"/C/Users/Caleby/Documents/Python_Coding/XY_BOT/info_text/admin_menu.txt",
+		"/C/Users/Caleby/Documents/Python_Coding/XY_BOT/xybot/Scripts/activate",
+		"/C/Users/Caleby/Documents/Python_Coding/XY_BOT/__init__.py",
+		"/C/Users/Caleby/Documents/Python_Coding/app.py",
+		"/C/Users/Caleby/Documents/Python_Coding/gui2.py",
+		"/C/Users/Caleby/Documents/Python_Coding/XY_BOT/info_text/admin_help.txt",
+		"/C/Users/Caleby/Documents/Python_Coding/XY_BOT/info_text/startgame.txt",
+		"/C/Users/Caleby/Documents/Python_Coding/XY_BOT/info_text/startwadmin.txt",
+		"/C/Users/Caleby/Documents/Python_Coding/XY_BOT/info_text/startnoadmin.txt",
+		"/C/Users/Caleby/Documents/Python_Coding/XY_BOT/gui2.py",
+		"/C/Users/Caleby/Documents/Python_Coding/XY_BOT/xybot/Lib/site-packages/PyQt5/QtWidgets.pyi",
+		"/C/Users/Caleby/Documents/Python_Coding/XY_BOT/xybot/Lib/site-packages/PyQt5/uic/Compiler/qtproxies.py",
+		"/C/Users/Caleby/Documents/Python_Coding/XY_BOT/xybot/Lib/site-packages/telegram/ext/updater.py",
+		"/C/Users/Caleby/Documents/Python_Coding/XY_BOT/sheets_deleter.py",
+		"/C/Users/Caleby/Documents/Python_Coding/XY_BOT/xybot/Lib/site-packages/telegram/ext/commandhandler.py",
+		"/C/Users/Caleby/Documents/Python_Coding/XY_BOT/info_text/newgame.txt",
+		"/C/Users/Caleby/Documents/Python_Coding/XY/XYGameHandler.py",
+		"/C/Users/Caleby/Documents/Python_Coding/XY/msgs.py",
+		"/C/Users/Caleby/Documents/Python_Coding/XY/sheets.py",
+		"/C/Users/Caleby/Documents/Python_Coding/XY/app.py",
+		"/C/Users/Caleby/Documents/Python_Coding/XY/xy/Lib/site-packages/telegram/ext/dispatcher.py",
+		"/C/Users/Caleby/Documents/Python Coding/XY/info_text/startnoadmin.txt",
+		"/C/Users/Caleby/Documents/Python Coding/XY/XYGameHandler.py",
+		"/C/Users/Caleby/Documents/Python Coding/XY/info_text/admin_menu.txt",
+		"/C/Users/Caleby/Documents/Python Coding/XY/sheets.py",
+		"/C/Users/Caleby/Documents/Python Coding/XY/msgs.py",
+		"/C/Users/Caleby/Documents/Python Coding/XY/app.py",
+		"/C/Users/Caleby/Documents/Python Coding/XY/__init__.py",
+		"/C/Users/Caleby/Documents/Python Coding/XY/info_text/startwadmin.txt",
+		"/C/Users/Caleby/Documents/Python Coding/XY/info_text/newgame.txt",
+		"/C/Users/Caleby/Documents/Python Coding/XY/info_text/startgame.txt",
+		"/C/Users/Caleby/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Caleby/Documents/Python Coding/python-tg-bot-api/app.py",
+		"/C/Users/Caleby/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/Caleby/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Caleby/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Caleby/Documents/Python Coding/xls test/xlstest.py",
+		"/C/Users/Caleby/Documents/Python Coding/xls test/creds.json",
+		"/C/Users/Caleby/Documents/Python Coding/xls test/xls/Lib/site-packages/oauth2client/service_account.py",
+		"/C/Users/Caleby/Documents/Python Coding/xls test/xls/Lib/site-packages/oauth2client/__init__.py",
+		"/C/Users/Caleby/Documents/Python Coding/tgbotflask/tgbotflask/app.py",
+		"/C/Users/Caleby/Documents/Python Coding/python-tg-bot-api/pollbot.py",
+		"/C/Users/Caleby/Documents/Python Coding/xls test/xls/Scripts/activate_this.py",
+		"/C/Users/Caleby/Documents/Python Coding/tgbotflask/Lib/site-packages/requests/api.py",
+		"/C/Users/Caleby/Documents/Python Coding/tgbotflask/tgbotflask/telegram_request.json",
+		"/C/Users/Caleby/Documents/Python Coding/tgbotflask/Lib/site-packages/requests/sessions.py",
+		"/C/Users/Caleby/Documents/Python Coding/tgbotflask/Scripts/activate",
+		"/C/Users/Caleby/Documents/Python Coding/tgbotflask/Lib/site-packages/jinja2/lexer.py",
+		"/C/Users/Caleby/Documents/Python Coding/tg bot 1/tgbot1/tgbot1/urls.py",
+		"/C/Users/Caleby/Documents/Python Coding/tg bot 1/tgbot1/tgbot1/models.py",
+		"/C/Users/Caleby/Documents/Python Coding/tg bot 1/tgbot1/manage.py",
+		"/C/Users/Caleby/Documents/Python Coding/tg bot 1/tgbot1/tgbot1/settings/production.py",
+		"/C/Users/Caleby/Documents/Python Coding/tg bot 1/tgbot1/tgbot1/settings/base.py",
+		"/C/Users/Caleby/Documents/Python Coding/tg bot 1/tgbot1/tgbot1/settings/develop.py",
+		"/C/Users/Caleby/Documents/Python Coding/tg bot 1/tgbot1/tgbot1/view.py",
+		"/C/Users/Caleby/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/Caleby/Documents/Python Coding/tg bot 1/tgbot1/tgbot1/settings.py"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"print",
+			"\tupdater.start_polling()\n\tupdater.idle()",
+			"closeEv",
+			"mainwindow",
+			"closeEvent",
+			"QMessageBox",
+			"MARKDOWN_V2",
+			"*",
+			"\\",
+			"_",
+			"\\",
+			"MARKDO",
+			"reply_markup",
+			"type",
+			"."
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 8,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Caleby/Documents/NUS CS1010E/assignment/assignment1.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 153,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								153,
+								153
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Caleby/Documents/NUS CS1010E/tut/w03.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1241,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								521,
+								521
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										520,
+										521
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"region.yellowish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										516,
+										517
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 70.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Caleby/Documents/NUS CS1010E/assignment/assignment2.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/Caleby/Documents/NUS CS1010E/assignment/assignment-2-template.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2072,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1500,
+								1500
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1499,
+										1500
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"region.yellowish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1497,
+										1498
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1261.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/Caleby/Documents/NUS CS1010E/misc/trainingstrings2.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1165,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1130,
+								1130
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 683.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Users/Caleby/Documents/NUS CS1010E/katiss/quadrant.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 247,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								79,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										78,
+										79
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"region.yellowish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										64,
+										65
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/Users/Caleby/Documents/NUS CS1010E/katiss/planina.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 190,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								95,
+								95
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										94,
+										95
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"region.yellowish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										88,
+										89
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/Users/Caleby/Documents/NUS CS1010E/katiss/planinainput.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1,
+								1
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/Users/Caleby/Documents/NUS CS1010E/assignment/assignment3-template.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3546,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1237,
+								1237
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1236,
+										1237
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"region.yellowish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1220,
+										1221
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 630.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/C/Users/Caleby/Documents/NUS CS1010E/katiss/quadrantinput.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5,
+								5
+							]
+						],
+						"settings":
+						{
+							"auto_name": "10",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 405.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.851403271179,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 183.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

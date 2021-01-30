@@ -1,0 +1,5 @@
+Participants/ team representatives are now able to join the game via the /join command. I will send a notification when participants join, as well as when all participants have joined.
+
+Open the scoring gSheets here: https://docs.google.com/spreadsheets/d/1Hjlmt2Xe7579b4ym9NkdDEE56T5sW6EwXJQGAF_tUqk/
+
+Writing and calculation of scores is automated; there is no need to edit anything in the spreadsheet.
