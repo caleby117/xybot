@@ -15,7 +15,7 @@ for f in os.listdir('./'):
 logging.basicConfig(format='%(asctime)s - %(levelname)s - %(message)s',
                      filename=f'XY_logs.log', level=logging.INFO)
 
-token = '1059354244:AAGNd66NiLhh2FYYICC07XzPvfdhSICfxTU' #Bot Token for Win As Much As You Can
+token = '<token here>' #Bot Token for Win As Much As You Can
 
 
 def start(update, context):
