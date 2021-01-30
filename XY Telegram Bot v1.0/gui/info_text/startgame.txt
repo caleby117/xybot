@@ -1,3 +1,0 @@
-Game has started! Teams may now play Round 1
-
-I will notify you when the participants have played their X or Y, and also when all the participants have played.
